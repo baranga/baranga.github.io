@@ -23,6 +23,8 @@ Except from tech I'm into biking (human powered and motorized), running,
 climbing and travelling around the world. I'm also a part time knife smith, at
 least I try to become one.
 
+After several years of living in Berlin I moved back to my hometown: Schwerin.
+
 ## Skills
 - Coding
   - PHP
