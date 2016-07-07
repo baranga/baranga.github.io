@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hi!"
+date:   2016-07-07 09:59:00
+categories: blog
+---
+
+Hi, this is my first blog post. It's main purpose is to provide some dummy
+content to play around with jekyll and the styles.
