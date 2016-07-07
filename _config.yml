@@ -2,7 +2,7 @@
 title: Ai Baranga!
 email: "&#098;&#097;&#114;&#097;&#110;&#103;&#097;&#064;&#112;&#111;&#115;&#116;&#101;&#111;&#046;&#100;&#101;"
 description: > # this means to ignore newlines until "baseurl:"
-  Personal homepage of baranga / Henning Panke.
+  personal homepage of baranga / henning
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://baranga.github.io" # the base hostname & protocol for your site
 twitter_username: B4R4N64
