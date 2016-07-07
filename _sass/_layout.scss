@@ -143,6 +143,14 @@
     }
 }
 
+.post-list-item {
+    > .header {
+        h2 {
+            margin: 0;
+        }
+    }
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
