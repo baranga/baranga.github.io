@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Hi, it's me, Henning
-title-menu: About
-permalink: /about/
 ---
 
 <div class="portrait">
