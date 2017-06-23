@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Use git-flow on gitlab projects with merge requests"
-categories: development
+title:  "Use gitflow on gitlab projects with merge requests"
+categories: blog
 ---
 
 I use [gitflow-avh][gf-avh] and [gitlab][gl] for several years and I'm quiet happy
