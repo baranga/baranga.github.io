@@ -10,3 +10,7 @@ github_username: baranga
 
 # Build settings
 markdown: kramdown
+exclude:
+  - README.md
+excerpt_separator: <!--more-->
+
