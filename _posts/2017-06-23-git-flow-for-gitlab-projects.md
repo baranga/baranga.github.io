@@ -9,6 +9,7 @@ with these tools. It just happened some months ago my team and me started some
 projects using gitflow together with gitlab merge requests (MR). Merge
 request are really helpful for code reviews and discussions around features.
 But unfortunately they don't integrate with gitflow very well.
+<!--more-->
  
 Gitlab encourages you to use [gitlab flow][gl-f] which works quiet different
 than the gitflow [approach][gf-nvie]. Branches getting merged against
