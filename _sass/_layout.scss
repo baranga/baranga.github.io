@@ -233,3 +233,10 @@
 #foot {
   display: none;
 }
+
+.highlight {
+    pre, code {
+        background-color: inherit;
+        color: inherit;
+    }
+}
