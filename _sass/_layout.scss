@@ -208,6 +208,22 @@
     }
 }
 
+.post-footer {
+    dl.post-meta {
+        dt {
+          //display: inline;
+            float: left;
+            &:after {
+                content: ':';
+            }
+            margin-right: 1ex;
+        }
+        dd {
+          //display: inline;
+        }
+    }
+}
+
 .portrait {
   float: right;
   margin: 0 0 $spacing-unit / 2 $spacing-unit / 2;

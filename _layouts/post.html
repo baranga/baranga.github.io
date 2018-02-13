@@ -12,4 +12,14 @@ layout: default
     {{ content }}
   </article>
 
+  <footer class="post-footer">
+    <dl class="post-meta">
+      <dt>date</dt>
+      <dd>{{ page.date | date: "%Y-%m-%d" }}</dd>
+      <dt>categories</dt>
+      <dd>{{ page.categories | array_to_sentence_string }}</dd>
+      <dt>tags</dt>
+      <dd>{{ page.tags | array_to_sentence_string }} </dd>
+    </dl>
+  </footer>
 </div>
