@@ -4,8 +4,8 @@ title: Hi, it's me, Henning
 ---
 
 <div class="portrait">
-  <a href="{{site.baseurl }}/assets/images/profile.jpeg">
-    <img src="{{site.baseurl }}/assets/images/profile_dark_small.jpeg" alt="portrait">
+  <a href="{{site.baseurl}}/assets/images/profile.jpeg">
+    <img src="{{site.baseurl}}/assets/images/profile_dark_small.jpeg" alt="portrait">
   </a>
 </div>
 
@@ -25,8 +25,8 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
 ## Skills
 - Coding
-  - PHP
   - Node.js
+  - PHP
   - C / C++ / Qt / C#
 - Web
   - HTML5 / CSS3 / JS
@@ -44,13 +44,36 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
   - MongoDB / MySQL / MSSQL
   - Elasticsearch
   - Reddis / Memcache
-  - AMQP / RabbitMQ / Gearman
+  - Kafka / AMQP / RabbitMQ / Gearman
 - Soft
   - Scrum Master
   - good listener
 
 ## Experience
-- **2015-01 - 2016-04 Software and DevOps Engineer at [MDK Labs][mdk], Berlin**
+- **2017-05 - now - Software Engineer at [YEAY][yeay], Berlin**
+
+  Joined the backend team to help with ongoing development of platform.
+  Currently helping to refactor the backend architecture into micro service
+  environment with kafka as central service bus.
+
+  {Node.js, AngularJS, Parse, MongoDB, Elastichsearch, Kafka, Docker}
+
+- **2016-12 - 2017-05 - Software Engineer at [MVCon InnoLab][mvcon], Rostock**
+
+  Helped to build a industry 4.0 work time scheduling service based on
+  a event driven micro service architecture using CQRS and event sourcing.
+
+  {Node.js, AngularJS, MongoDB, RabbitMQ, CQRS, Event Sourcing}
+
+- **2016-09 - 2016-11 - Software Engineer at [Flexperto][flexperto], Berlin**
+
+  Joined there development team to help to kick off a complete refactoring and
+  cleanup of the backend. The target was to prepare for a separation of php
+  ui frontend and api.
+
+  {PHP, Yii, MySQL}
+
+- **2015-01 - 2016-04 - Software and DevOps Engineer at [MDK Labs][mdk], Berlin**
 
   Developed full blown micro service architecture with custom MQTT broker to
   build a api driven IoT / communication backend running on bare metal and in cloud.
@@ -59,7 +82,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
   {Node.js, Reddis, RabbitMQ, MQTT, MongoDB, Git, Jenkins, Vagrant, Ubuntu, Ansible,
   Kubernetes, Mesos / Marathon, AWS, Google Cloud}
 
-- **2012-10 - 2014-12 Software and DevOps Engineer at [L'ArcoBaleno][lab] / [Pamono][pam], Berlin**
+- **2012-10 - 2014-12 - Software and DevOps Engineer at [L'ArcoBaleno][lab] / [Pamono][pam], Berlin**
 
   Developed custom Magento theme and plugins to create unique e-commerce
   experience around vintage interior design and furniture. Setup and maintained
@@ -67,7 +90,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
   {PHP, MySQL, Elasticsearch, HTML5, CSS3, JavaScript, Git, Nginx, Jenkins, Vagrant, Puppet, Ubuntu}
 
-- **2007-10 - 2012-10 Team Lead UI Development and Software Engineer at [erento][ere], Berlin**
+- **2007-10 - 2012-10 - Team Lead UI Development and Software Engineer at [erento][ere], Berlin**
 
   Developed several internal tools and website features in my role as frontend
   and backend developer. Led the ui team and supported dev team self enhancement
@@ -79,7 +102,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
   CSS, JavaScript, SVN, Nginx, Apache, Varnish, Vagrant, Puppet, Ubuntu & Gentoo,
   Jenkins}
 
-- **2004-10 - 2007-09 Student and Software Engineer at [Clausmark Consulting][cmc], Karlsruhe**
+- **2004-10 - 2007-09 - Student and Software Engineer at [Clausmark Consulting][cmc], Karlsruhe**
 
   Developed SOAP and REST based application server and customized ERP Systems. Administered
   the web presence and migrated it to a CMS. Tested and verified software.
@@ -88,7 +111,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
 
 ## Education
-- **2004-10 - 2007-09 Diplom-Ingenieur (Berufsakademie) at [Baden-Württemberg Cooperative State University Karlsruhe][dhk], Karslruhe**
+- **2004-10 - 2007-09 - Diplom-Ingenieur (Berufsakademie) at [Baden-Württemberg Cooperative State University Karlsruhe][dhk], Karslruhe**
   <br>
   Graduated from Berufsakademie Karlsruhe (now Duale Hochschule Baden-Württemberg Karlsruhe)
   with a Dipl.-Ing. (BA) degree in *Informationstechnik - Schwerpunkt Netz- und Softwaretechnik*.
@@ -96,7 +119,9 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
 
 
-
+[yeay]: https://yeay.com
+[mvcon]: https://mvcon-innolab.com
+[flexperto]: https://www.flexperto.com
 [mdk]: https://mdk.io
 [lab]: http://www.larcobaleno.com
 [pam]: https://www.pamono.com
