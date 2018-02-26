@@ -123,7 +123,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 [mvcon]: https://mvcon-innolab.com
 [flexperto]: https://www.flexperto.com
 [mdk]: https://web.archive.org/web/20160406235422/https://mdk.io
-[lab]: http://www.larcobaleno.com
+[lab]: https://web.archive.org/web/20150729162522/http://www.larcobaleno.com/
 [pam]: https://www.pamono.com
 [ere]: http://www.erento.com
 [cmc]: https://www.clausmark.com
