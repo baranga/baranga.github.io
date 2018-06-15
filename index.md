@@ -50,7 +50,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
   - good listener
 
 ## Experience
-- **2017-05 - now - Software Engineer at [YEAY][yeay], Berlin**
+- **2017-06 - 2018-05 - Software Engineer at [YEAY][yeay], Berlin**
 
   Joined the backend team to help with ongoing development of platform.
   Currently helping to refactor the backend architecture into micro service
