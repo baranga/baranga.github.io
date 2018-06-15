@@ -58,7 +58,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
   {Node.js, AngularJS, Parse, MongoDB, Elastichsearch, Kafka, Docker}
 
-- **2016-12 - 2017-05 - Software Engineer at [MVCon InnoLab][mvcon], Rostock**
+- **2016-12 - 2017-05 - Software Engineer at [MVCon InnovationLab][mvcon], Rostock**
 
   Helped to build a industry 4.0 work time scheduling service based on
   a event driven micro service architecture using CQRS and event sourcing.
@@ -120,7 +120,7 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
 
 
 [yeay]: https://yeay.com
-[mvcon]: https://mvcon-innolab.com
+[mvcon]: https://www.vote2work.com
 [flexperto]: https://www.flexperto.com
 [mdk]: https://web.archive.org/web/20160406235422/https://mdk.io
 [lab]: https://web.archive.org/web/20150729162522/http://www.larcobaleno.com/
