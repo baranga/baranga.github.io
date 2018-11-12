@@ -50,13 +50,20 @@ After several years of living in Berlin I moved back to my hometown: Schwerin.
   - good listener
 
 ## Experience
-- **2017-06 - 2018-10 - Software Engineer at [YEAY][yeay], Berlin**
+- **2017-06 - 2018-11 - Software Engineer at [YEAY][yeay], Berlin**
 
   Joined the backend team to help with ongoing development of platform.
   Currently helping to refactor the backend architecture into micro service
   environment with kafka as central service bus.
 
   {Node.js, AngularJS, Parse, MongoDB, Elastichsearch, Kafka, Docker}
+
+- **2018-10 - 2018-11 - Software Engineer at [Flexperto][flexperto], Berlin**
+
+  Implementing and integrating a Redux web app to test media capabilities of
+  clients.
+
+  {JavaScript, React, Redux, Redux Saga, Webpack, PHP, Yii}
 
 - **2018-02 - 2018-03 - Software Engineer at [Flexperto][flexperto], Berlin**
 
